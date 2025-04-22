@@ -12,6 +12,15 @@ This project demonstrates how to clean messy customer contact data using Power B
   - % Clean Phone Numbers
 - Displayed clean customer data table
 
+- ---
+
+## 📊 Sample Dashboard Preview:
+
+![Dashboard Preview](CustomerContactDashboard.png)
+
+---
+
+
 ## Tools Used:
 - Power BI Desktop
 - Power Query Editor (Text Functions like Text.Select, Text.Contains)
